@@ -1,0 +1,4 @@
+This script works by spamming the voteevent remote which will lag the server and can sometimes kick all of the players in a server 
+You can also click start more than once, just dont do it too much or it can kick you
+have fun and enjoy using this script to mess up servers!!!!! 
+Made by Yordi10#2082
